@@ -1,0 +1,61 @@
+[
+  {
+    "title":"Мемориал Славы",
+  "description":"Монументально, мощно с ярким и запоминающимся выражением фигур всех участников ВОВ (мемориал возведен был к 30-й годовщине победы в Великой Отечественной войне. В рамках комплекса был зажжён вечный огонь.",
+  "photoUrl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/ff/77/0e/caption.jpg?w=1200&h=-1&s=1",
+  "location":"https://go.2gis.com/jek2u"
+  },
+  {
+    "title":"Музей народных музыкальных инструментов имени Ыхласа",
+    "description":"Это шикарное историческое место в Алматы! Его посещали множество знаменитых народных героев один из таких людей был Российский народный артист Шаврин Александр Валерьевич.",
+    "photoUrl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/74/1a/b7/museum-of-folk-music.jpg?w=900&h=-1&s=1",
+   "location" :"https://go.2gis.com/6efjy"
+  },
+  {
+    "title":"Esentai Mall",
+    "description":"Esentai Mall – уникальный проект Capital Partners, который был спроектирован и разработан с целью предложить особую атмосферу и условия международного уровня для шопинга и развлечений. ",
+    "photoUrl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/61/b0/c8/esentai-mall.jpg?w=1200&h=-1&s=1",
+    "location":"https://go.2gis.com/3nh9ak"
+  },
+  {
+    "title":"Гора Кок Тобе",
+    "description":"Красота, дух захватывает от Красоты Алматинских гор!!! Нужно чаще выбираться сюда, видно весь город как на ладони",
+    "photoUrl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/04/2a/01/view-from-the-cafe.jpg?w=1200&h=-1&s=1",
+    "location":"https://go.2gis.com/jr30f"
+  },
+  {
+    "title":"Казахский Государственный академический театр оперы и балета имени Абая",
+  "description":"Театр оперы и балета в городе Алма-Ата, один из ведущих оперных театров Казахстана",
+    "photoUrl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/8a/6d/0f/area-en-obras-que-va.jpg?w=1200&h=-1&s=1",
+    "location":"https://go.2gis.com/4q16hy"},
+  {
+    "title":"Парк имени Первого Президента Республики Казахстан",
+    "description":"Дендропарк в городе Алматы, расположен на пересечении улицы Навои и проспекта Аль-Фараби в Бостандыкском районе. Парк открыт с июля 2010 года",
+    "photoUrl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/4e/60/12/first-president-s-park.jpg?w=1200&h=-1&s=1",
+    "location":"https://go.2gis.com/ret68"
+  },
+  {
+    "title":"Мега Алма-Ата",
+    "description":"MEGA Alma-Ata — это самый популярный торговый центр в мегаполисе и площадка номер один для большинства всемирно известных компаний, представленных в Казахстане. ",
+    "photoUrl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/43/c4/bb/caption.jpg?w=1100&h=-1&s=1",
+    "location":"https://go.2gis.com/zf1zs"
+  },
+  {
+    "title":"Вознесенский Кафедральный собор",
+    "description":"Вознесенский кафедральный собор имеет три придела: центральный освящен в честь Вознесения Господня, южный – в честь Благовещения Пресвятой Богородицы, и северный – во имя святых мучениц Веры Надежды, Любови и матери их Софии, которых почитают как покровительниц Семиречья. ",
+    "photoUrl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/3a/35/94/photo1jpg.jpg?w=1200&h=-1&s=1",
+    "location":"https://go.2gis.com/3ab7z"
+  },
+  {
+    "title":"Музей археологии",
+    "description":"Музей археологии — это культурное подразделение Академии наук Казахстана. Музей располагается в научно-музейном комплексе «Ғылым ордасы». Он является единственным в своем роде на территории республики Казахстан.",
+    "photoUrl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/17/58/4d/caption.jpg?w=1200&h=-1&s=1",
+    "location":"https://go.2gis.com/aisiya"
+  },
+  {
+    "title":"Памятник группе Битлз",
+    "description":"Памятник английской рок-группе The Beatles, установленный в Алма-Ате на горе Кок-Тюбе 15 мая 2007 года. Сделан из бронзы. Скульптор — Эдуард Казарян. На композиции Пол Маккартни, Ринго Старр и Джордж Харрисон изображены стоя. Сидящим изображён Джон Леннон, с гитарой в руках. ",
+    "photoUrl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/73/f4/82/beatles-monument-almaty.jpg?w=1200&h=-1&s=1",
+    "location":"https://go.2gis.com/r0vi9"
+  }
+]
